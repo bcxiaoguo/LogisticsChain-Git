@@ -1,0 +1,9 @@
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Model\bin\Debug\netcoreapp2.1\LogisticsChain.Entity.deps.json
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Model\bin\Debug\netcoreapp2.1\LogisticsChain.Entity.dll
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Model\bin\Debug\netcoreapp2.1\LogisticsChain.Entity.pdb
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Model\obj\Debug\netcoreapp2.1\LogisticsChain.Entity.csproj.CoreCompileInputs.cache
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Model\obj\Debug\netcoreapp2.1\LogisticsChain.Entity.AssemblyInfoInputs.cache
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Model\obj\Debug\netcoreapp2.1\LogisticsChain.Entity.AssemblyInfo.cs
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Model\obj\Debug\netcoreapp2.1\LogisticsChain.Entity.dll
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Model\obj\Debug\netcoreapp2.1\LogisticsChain.Entity.pdb
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Model\obj\Debug\netcoreapp2.1\LogisticsChain.Entity.csprojAssemblyReference.cache

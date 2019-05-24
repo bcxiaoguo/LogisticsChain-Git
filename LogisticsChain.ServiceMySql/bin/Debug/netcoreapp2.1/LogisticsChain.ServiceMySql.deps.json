@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "LogisticsChain.ServiceMySql/1.0.0": {
+        "dependencies": {
+          "LogisticsChain.Entity": "1.0.0",
+          "MySql.Data": "6.9.8.0"
+        },
+        "runtime": {
+          "LogisticsChain.ServiceMySql.dll": {}
+        }
+      },
+      "LogisticsChain.Entity/1.0.0": {
+        "runtime": {
+          "LogisticsChain.Entity.dll": {}
+        }
+      },
+      "MySql.Data/6.9.8.0": {
+        "runtime": {
+          "MySql.Data.dll": {
+            "assemblyVersion": "6.9.8.0",
+            "fileVersion": "6.9.8.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LogisticsChain.ServiceMySql/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogisticsChain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySql.Data/6.9.8.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

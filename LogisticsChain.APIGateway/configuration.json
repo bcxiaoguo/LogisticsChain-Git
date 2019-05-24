@@ -1,0 +1,113 @@
+{
+  "ReRoutes": [
+    // API:Authentication 权限验证
+    {
+      "DownstreamPathTemplate": "/api/{url}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "54961"
+        }
+      ],
+      "UpstreamPathTemplate": "/Authentication/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post" ]
+
+    },
+    // API:AppService App信息
+    {
+      "DownstreamPathTemplate": "/AppService/{url}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "57466"
+        }
+      ],
+      "UpstreamPathTemplate": "/AppService/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post" ] //,
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "GSWBearer",
+      //  "AllowedScopes": []
+      //}
+    }  
+    //,
+    //{
+    //  "DownstreamPathTemplate": "/api/{url}",
+    //  "DownstreamScheme": "http",
+    // "DownstreamHostAndPorts": [
+    //  {
+    //    "Host": "localhost",
+    //    "Port": "57466"
+    //  }
+    //  ],
+    //  "UpstreamPathTemplate": "/AppService/denied",
+    //  "UpstreamHttpMethod": [ "Get" ],
+    //  "QoSOptions": {
+    //    "ExceptionsAllowedBeforeBreaking": 3,
+    //    "DurationOfBreak": 10,
+    //    "TimeoutValue": 5000
+    //  },
+    //  "AuthenticationOptions": {
+    //  }
+    //}
+    //,
+    //{
+    //  "DownstreamPathTemplate": "/api/{url}",
+    //  "DownstreamScheme": "http",
+    //  "DownstreamPort": 57466,
+    //  "DownstreamHost": "localhost",
+    //  "UpstreamPathTemplate": "/AppService/{url}",
+    //  "UpstreamHttpMethod": [ "Get" ],
+    //  "AuthenticationOptions": {
+    //  }
+    //}
+  ]
+}
+
+
+//{
+//  "ReRoutes": [
+//    // API:Authentication 权限验证
+//    {
+//      "DownstreamPathTemplate": "/Authentication/{url}",
+//      "DownstreamScheme": "http",
+//      "DownstreamHostAndPorts": [
+//        {
+//          "Host": "localhost",
+//          "Port": "54961"
+//        }
+//      ],
+//      "UpstreamPathTemplate": "/Authentication/{url}",
+//      "UpstreamHttpMethod": [ "Get", "Post" ]
+
+//    },
+//    // API:AppService App信息
+//    {
+//      "DownstreamPathTemplate": "/AppService/{url}",
+//      "DownstreamScheme": "http",
+//      "DownstreamHostAndPorts": [
+//        {
+//          "Host": "localhost",
+//          "Port": "57466"
+//        }
+//      ],
+//      "UpstreamPathTemplate": "/AppService/{url}",
+//      "UpstreamHttpMethod": [ "Get", "Post" ],
+//      "AuthenticationOptions": {
+//        "AuthenticationProviderKey": "GSWBearer",
+//        "AllowedScopes": []
+//      }
+//    },
+//    {
+//      "DownstreamPathTemplate": "/AppService/denied",
+//      "DownstreamScheme": "http",
+//      "DownstreamPort": 57466,
+//      "DownstreamHost": "localhost",
+//      "UpstreamPathTemplate": "/AppService/denied",
+//      "UpstreamHttpMethod": [ "Get" ],
+//      "AuthenticationOptions": {
+//      }
+//    }
+//  ]
+//}

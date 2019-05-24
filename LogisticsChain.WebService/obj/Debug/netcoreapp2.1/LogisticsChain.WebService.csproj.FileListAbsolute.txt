@@ -1,0 +1,17 @@
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.WebService\bin\Debug\netcoreapp2.1\LogisticsChain.WebService.deps.json
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.WebService\bin\Debug\netcoreapp2.1\LogisticsChain.WebService.runtimeconfig.json
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.WebService\bin\Debug\netcoreapp2.1\LogisticsChain.WebService.runtimeconfig.dev.json
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.WebService\bin\Debug\netcoreapp2.1\LogisticsChain.WebService.dll
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.WebService\bin\Debug\netcoreapp2.1\LogisticsChain.WebService.pdb
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.WebService\obj\Debug\netcoreapp2.1\LogisticsChain.WebService.csproj.CoreCompileInputs.cache
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.WebService\obj\Debug\netcoreapp2.1\LogisticsChain.WebService.RazorAssemblyInfo.cache
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.WebService\obj\Debug\netcoreapp2.1\LogisticsChain.WebService.RazorAssemblyInfo.cs
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.WebService\obj\Debug\netcoreapp2.1\LogisticsChain.WebService.AssemblyInfoInputs.cache
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.WebService\obj\Debug\netcoreapp2.1\LogisticsChain.WebService.AssemblyInfo.cs
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.WebService\obj\Debug\netcoreapp2.1\LogisticsChain.WebService.RazorTargetAssemblyInfo.cache
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.WebService\obj\Debug\netcoreapp2.1\LogisticsChain.WebService.dll
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.WebService\obj\Debug\netcoreapp2.1\LogisticsChain.WebService.pdb
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.WebService\bin\Debug\netcoreapp2.1\LogisticsChain.Tool.dll
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.WebService\bin\Debug\netcoreapp2.1\LogisticsChain.Tool.pdb
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.WebService\obj\Debug\netcoreapp2.1\LogisticsChain.WebService.csprojAssemblyReference.cache
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.WebService\obj\Debug\netcoreapp2.1\LogisticsChain.WebService.csproj.CopyComplete

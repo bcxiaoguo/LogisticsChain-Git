@@ -1,0 +1,13 @@
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.ServiceMySql\bin\Debug\netcoreapp2.1\LogisticsChain.ServiceMySql.deps.json
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.ServiceMySql\bin\Debug\netcoreapp2.1\LogisticsChain.ServiceMySql.dll
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.ServiceMySql\bin\Debug\netcoreapp2.1\LogisticsChain.ServiceMySql.pdb
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.ServiceMySql\bin\Debug\netcoreapp2.1\LogisticsChain.Entity.dll
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.ServiceMySql\bin\Debug\netcoreapp2.1\MySql.Data.dll
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.ServiceMySql\bin\Debug\netcoreapp2.1\LogisticsChain.Entity.pdb
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.ServiceMySql\obj\Debug\netcoreapp2.1\LogisticsChain.ServiceMySql.csprojAssemblyReference.cache
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.ServiceMySql\obj\Debug\netcoreapp2.1\LogisticsChain.ServiceMySql.csproj.CoreCompileInputs.cache
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.ServiceMySql\obj\Debug\netcoreapp2.1\LogisticsChain.ServiceMySql.AssemblyInfoInputs.cache
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.ServiceMySql\obj\Debug\netcoreapp2.1\LogisticsChain.ServiceMySql.AssemblyInfo.cs
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.ServiceMySql\obj\Debug\netcoreapp2.1\LogisticsChain.ServiceMySql.csproj.CopyComplete
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.ServiceMySql\obj\Debug\netcoreapp2.1\LogisticsChain.ServiceMySql.dll
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.ServiceMySql\obj\Debug\netcoreapp2.1\LogisticsChain.ServiceMySql.pdb

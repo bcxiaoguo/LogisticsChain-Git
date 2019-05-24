@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LogisticsChain.Model\LogisticsChain.Entity.csproj" />
+    <ProjectReference Include="..\LogisticsChain.ServiceMySql\LogisticsChain.ServiceMySql.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Maticsoft.Common">
+      <HintPath>..\..\package\Maticsoft.Common.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

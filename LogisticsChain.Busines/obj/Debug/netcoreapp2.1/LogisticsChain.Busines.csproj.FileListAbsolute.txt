@@ -1,0 +1,16 @@
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Busines\bin\Debug\netcoreapp2.1\LogisticsChain.Busines.deps.json
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Busines\bin\Debug\netcoreapp2.1\LogisticsChain.Busines.dll
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Busines\bin\Debug\netcoreapp2.1\LogisticsChain.Busines.pdb
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Busines\bin\Debug\netcoreapp2.1\LogisticsChain.Entity.dll
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Busines\bin\Debug\netcoreapp2.1\LogisticsChain.ServiceMySql.dll
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Busines\bin\Debug\netcoreapp2.1\Maticsoft.Common.dll
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Busines\bin\Debug\netcoreapp2.1\MySql.Data.dll
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Busines\bin\Debug\netcoreapp2.1\LogisticsChain.Entity.pdb
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Busines\bin\Debug\netcoreapp2.1\LogisticsChain.ServiceMySql.pdb
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Busines\obj\Debug\netcoreapp2.1\LogisticsChain.Busines.csprojAssemblyReference.cache
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Busines\obj\Debug\netcoreapp2.1\LogisticsChain.Busines.csproj.CoreCompileInputs.cache
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Busines\obj\Debug\netcoreapp2.1\LogisticsChain.Busines.AssemblyInfoInputs.cache
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Busines\obj\Debug\netcoreapp2.1\LogisticsChain.Busines.AssemblyInfo.cs
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Busines\obj\Debug\netcoreapp2.1\LogisticsChain.Busines.csproj.CopyComplete
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Busines\obj\Debug\netcoreapp2.1\LogisticsChain.Busines.dll
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Busines\obj\Debug\netcoreapp2.1\LogisticsChain.Busines.pdb

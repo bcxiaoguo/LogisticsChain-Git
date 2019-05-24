@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "LogisticsChain.Busines/1.0.0": {
+        "dependencies": {
+          "LogisticsChain.Entity": "1.0.0",
+          "LogisticsChain.ServiceMySql": "1.0.0",
+          "Maticsoft.Common": "3.5.0.0"
+        },
+        "runtime": {
+          "LogisticsChain.Busines.dll": {}
+        }
+      },
+      "LogisticsChain.Entity/1.0.0": {
+        "runtime": {
+          "LogisticsChain.Entity.dll": {}
+        }
+      },
+      "LogisticsChain.ServiceMySql/1.0.0": {
+        "dependencies": {
+          "LogisticsChain.Entity": "1.0.0",
+          "MySql.Data": "6.9.8.0"
+        },
+        "runtime": {
+          "LogisticsChain.ServiceMySql.dll": {}
+        }
+      },
+      "Maticsoft.Common/3.5.0.0": {
+        "runtime": {
+          "Maticsoft.Common.dll": {
+            "assemblyVersion": "3.5.0.0",
+            "fileVersion": "3.5.0.0"
+          }
+        }
+      },
+      "MySql.Data.Reference/6.9.8.0": {
+        "runtime": {
+          "MySql.Data.dll": {
+            "assemblyVersion": "6.9.8.0",
+            "fileVersion": "6.9.8.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LogisticsChain.Busines/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogisticsChain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogisticsChain.ServiceMySql/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Maticsoft.Common/3.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySql.Data.Reference/6.9.8.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

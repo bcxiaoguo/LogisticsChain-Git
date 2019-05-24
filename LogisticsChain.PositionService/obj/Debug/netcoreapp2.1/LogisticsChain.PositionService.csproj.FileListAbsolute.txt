@@ -1,0 +1,17 @@
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.PositionService\bin\Debug\netcoreapp2.1\LogisticsChain.PositionService.deps.json
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.PositionService\bin\Debug\netcoreapp2.1\LogisticsChain.PositionService.runtimeconfig.json
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.PositionService\bin\Debug\netcoreapp2.1\LogisticsChain.PositionService.runtimeconfig.dev.json
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.PositionService\bin\Debug\netcoreapp2.1\LogisticsChain.PositionService.dll
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.PositionService\bin\Debug\netcoreapp2.1\LogisticsChain.PositionService.pdb
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.PositionService\bin\Debug\netcoreapp2.1\LogisticsChain.Entity.dll
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.PositionService\bin\Debug\netcoreapp2.1\LogisticsChain.Entity.pdb
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.PositionService\obj\Debug\netcoreapp2.1\LogisticsChain.PositionService.csprojAssemblyReference.cache
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.PositionService\obj\Debug\netcoreapp2.1\LogisticsChain.PositionService.csproj.CoreCompileInputs.cache
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.PositionService\obj\Debug\netcoreapp2.1\LogisticsChain.PositionService.RazorAssemblyInfo.cache
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.PositionService\obj\Debug\netcoreapp2.1\LogisticsChain.PositionService.RazorAssemblyInfo.cs
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.PositionService\obj\Debug\netcoreapp2.1\LogisticsChain.PositionService.AssemblyInfoInputs.cache
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.PositionService\obj\Debug\netcoreapp2.1\LogisticsChain.PositionService.AssemblyInfo.cs
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.PositionService\obj\Debug\netcoreapp2.1\LogisticsChain.PositionService.RazorTargetAssemblyInfo.cache
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.PositionService\obj\Debug\netcoreapp2.1\LogisticsChain.PositionService.csproj.CopyComplete
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.PositionService\obj\Debug\netcoreapp2.1\LogisticsChain.PositionService.dll
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.PositionService\obj\Debug\netcoreapp2.1\LogisticsChain.PositionService.pdb

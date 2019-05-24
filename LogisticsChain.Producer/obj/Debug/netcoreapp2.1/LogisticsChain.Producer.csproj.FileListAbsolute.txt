@@ -1,0 +1,9 @@
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Producer\bin\Debug\netcoreapp2.1\LogisticsChain.Producer.deps.json
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Producer\bin\Debug\netcoreapp2.1\LogisticsChain.Producer.dll
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Producer\bin\Debug\netcoreapp2.1\LogisticsChain.Producer.pdb
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Producer\obj\Debug\netcoreapp2.1\LogisticsChain.Producer.csproj.CoreCompileInputs.cache
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Producer\obj\Debug\netcoreapp2.1\LogisticsChain.Producer.AssemblyInfoInputs.cache
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Producer\obj\Debug\netcoreapp2.1\LogisticsChain.Producer.AssemblyInfo.cs
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Producer\obj\Debug\netcoreapp2.1\LogisticsChain.Producer.dll
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Producer\obj\Debug\netcoreapp2.1\LogisticsChain.Producer.pdb
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.Producer\obj\Debug\netcoreapp2.1\LogisticsChain.Producer.csprojAssemblyReference.cache

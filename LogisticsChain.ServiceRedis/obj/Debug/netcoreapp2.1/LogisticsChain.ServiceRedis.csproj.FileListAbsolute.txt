@@ -1,0 +1,12 @@
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.ServiceRedis\bin\Debug\netcoreapp2.1\LogisticsChain.ServiceRedis.deps.json
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.ServiceRedis\bin\Debug\netcoreapp2.1\LogisticsChain.ServiceRedis.dll
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.ServiceRedis\bin\Debug\netcoreapp2.1\LogisticsChain.ServiceRedis.pdb
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.ServiceRedis\bin\Debug\netcoreapp2.1\LogisticsChain.Tool.dll
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.ServiceRedis\bin\Debug\netcoreapp2.1\LogisticsChain.Tool.pdb
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.ServiceRedis\obj\Debug\netcoreapp2.1\LogisticsChain.ServiceRedis.csprojAssemblyReference.cache
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.ServiceRedis\obj\Debug\netcoreapp2.1\LogisticsChain.ServiceRedis.csproj.CoreCompileInputs.cache
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.ServiceRedis\obj\Debug\netcoreapp2.1\LogisticsChain.ServiceRedis.AssemblyInfoInputs.cache
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.ServiceRedis\obj\Debug\netcoreapp2.1\LogisticsChain.ServiceRedis.AssemblyInfo.cs
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.ServiceRedis\obj\Debug\netcoreapp2.1\LogisticsChain.ServiceRedis.csproj.CopyComplete
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.ServiceRedis\obj\Debug\netcoreapp2.1\LogisticsChain.ServiceRedis.dll
+D:\Guo\03_CoreTest\LogisticsChain\LogisticsChain\LogisticsChain.ServiceRedis\obj\Debug\netcoreapp2.1\LogisticsChain.ServiceRedis.pdb
